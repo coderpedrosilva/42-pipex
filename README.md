@@ -4,3 +4,5 @@ Esse projeto da escola 42 diz respeito a reprodução do comportamento do comand
 para a entrada do próximo comando para continuidade do processamento. Os dados enviados são processados pelo 
 próximo comando que mostrará o resultado do processamento.
 
+![](img/pipex.png)
+
